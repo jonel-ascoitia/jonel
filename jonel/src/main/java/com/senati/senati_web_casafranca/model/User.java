@@ -1,4 +1,4 @@
-package com.senati.senati_web_casafranca.model;
+package com.senati.senati_web_ascoitia.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

@@ -1,7 +1,7 @@
-package com.senati.senati_web_casafranca.service;
+package com.senati.senati_web_ascoitia.service;
 
-import com.senati.senati_web_casafranca.model.User;
-import com.senati.senati_web_casafranca.repository.UserRepository;
+import com.senati.senati_web_ascoitia.model.User;
+import com.senati.senati_web_ascoitia.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

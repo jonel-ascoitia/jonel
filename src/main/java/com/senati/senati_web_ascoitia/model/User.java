@@ -1,15 +1,21 @@
-package com.senati.senati_web_casafranca.model;
+package com.senati.senati_web_ascoitia.model;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 @Entity
 public class User {
+
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
+
     private String name;
     private String lastname;
 
+    // Getters y setters
     public int getId() {
         return id;
     }

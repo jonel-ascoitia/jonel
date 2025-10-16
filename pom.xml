@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.senati</groupId>
-	<artifactId>senati-web-casafranca</artifactId>
+	<artifactId>senati-web-ascoitia</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>senati-web-casafranca</name>
+	<name>senati-web-ascoitia</name>
 	<description>Mi primera aplicación en Azure</description>
 	<url/>
 	<licenses>

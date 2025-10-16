@@ -1,7 +1,7 @@
-package com.senati.senati_web_casafranca.controller;
+package com.senati.senati_web_ascoitia.controller;
 
-import com.senati.senati_web_casafranca.model.User;
-import com.senati.senati_web_casafranca.service.UserService;
+import com.senati.senati_web_ascoitia.model.User;
+import com.senati.senati_web_ascoitia.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.senati.senati_web_casafranca;
+package com.senati.senati_web_ascoitia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
